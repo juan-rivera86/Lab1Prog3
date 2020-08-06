@@ -16,6 +16,9 @@ public class LabCalculadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int nuevaVariable=0;
+        int SegundaVariable=2;
     }
     //hola mundo
 }
